@@ -1,0 +1,9 @@
+.undabot-contactPage__form {
+  text-align: center;
+}
+
+.undabot-contactPage__formItem {
+  width: 100%;
+  margin: 10px 0;
+  border: 1px solid black;
+}
